@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">和课堂</string>
+    <string name="textView">手机号码：</string>
+    <string name="textView3">密码：</string>
+    <string name="btnOk">登录</string>
+
+
+
+    <string name="action_settings">Settings</string>
+
+</resources>
